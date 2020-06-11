@@ -22,6 +22,7 @@ Thinkpad L490 for macOS Catalina
 - 蓝牙驱动正常
 <br/>
 
-#### 2020-06-12测试：<br/>
+#### 2020-06-12：<br/>
 - 从 :heart: 出发
+- EFI for Install
 <br/>
