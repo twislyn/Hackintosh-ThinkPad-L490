@@ -16,7 +16,8 @@ CPU | Intel Core i5-8265U
 #### 测试
 
 - 9260无线网卡无解，建议购买拆机卡或USB网卡
-- ThinkPad L490 for macOS Catalina，10.15.1(19B88)安装 <b>EFI v1.0</b> 测试通过
+- 使用 <b>EFI v1.0</b> 安装10.15.1(19B88)测试通过
+- 使用 <b>EFI v2.0</b> 安装10.15.4(19E2269)测试通过
 
 #### 2019-11-21更新：
 
@@ -34,5 +35,6 @@ CPU | Intel Core i5-8265U
 - 电源驱动不正常
 
 #### EFI v2.0 2020-06-12更新：
+
 - 从 :heart: 出发
 - EFI for Install
