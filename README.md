@@ -45,7 +45,7 @@ CPU | Intel Core i5-8265U
 - 睿频
 - 快捷键个别情况 存在破音
 - ~~无线网卡使用[itlwm](https://github.com/OpenIntelWireless/itlwm) 驱动，目前测试正常，但不稳定    建议购买拆机卡或USB网卡~~
-- 触摸板强制开启，只能使用轻点，无法使用多指手势，设备_CID：<font color=red>PNP0F13</font>，若有知道解决的大佬，欢迎Issue
+- 触摸板强制开启，只能使用轻点，无法使用多指手势，设备_CID：`*PNP0F13*`，若有知道解决的大佬，欢迎Issue
 
 ### 测试
 
