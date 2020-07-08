@@ -24,10 +24,10 @@ CPU | Intel Core i5-8265U
 
 - EFI v2.0 2020-06-12 从 :heart: 出发，新增EFI for Install
 
-- 2020-07-09 更新clover到5103，重新定制 EFI v2.1， 发布rc1版（beat1忘了具体更新的内容），驱动正常部分包括（电源、显卡、声音、网卡、
+- 2020-07-09 更新clover到5103，重新定制 EFI v2.1， 发布rc1版（beat1忘了具体更新的内容:joy:），驱动正常部分包括（电源、显卡、声音、网卡、
 蓝牙）
 
-### 驱动正常
+### 驱动正常 :+1:
 
 - 原生电源
 - 睡眠
@@ -45,7 +45,7 @@ CPU | Intel Core i5-8265U
 - 睿频
 - 快捷键个别情况 存在破音
 - ~~无线网卡使用[itlwm](https://github.com/OpenIntelWireless/itlwm) 驱动，目前测试正常，但不稳定    建议购买拆机卡或USB网卡~~
-- 触摸板强制开启，只能使用轻点，无法使用多指手势，设备_CID：<font color="#dd0000">PNP0F13</font>，若有知道解决的大佬，欢迎Issue
+- 触摸板强制开启，只能使用轻点，无法使用多指手势，设备_CID：:point_right: PNP0F13 :point_left:，若有知道解决的大佬，欢迎Issue
 
 ### 测试
 
