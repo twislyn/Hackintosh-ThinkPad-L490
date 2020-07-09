@@ -19,7 +19,7 @@ CPU主频 | 1.6Ghz
 屏幕尺寸 | 14.0英寸
 显示比例 | 16:9
 屏幕分辨率 | 1366x768
-屏幕技术 | LED背光;TN防眩目显示屏;最大视角度90°
+屏幕技术 | LED背光;TN防眩目显示屏
 显卡类型 | 集成显卡
 显卡芯片 | Intel UHD Graphics 620
 摄像头 | 720p HD  摄像头
@@ -27,7 +27,7 @@ CPU主频 | 1.6Ghz
 无线网卡 | Intel 9260(2x2 AC)
 有线网卡 | Intel  I219-V
 蓝牙 | BT 5.0
-数据接口 | 2个USB3.1(1个USB接口为Always On),2个Type-C
+数据接口 | 2个USB3.1,2个Type-C
 视频接口 | HDMI
 读卡器 | Micro SD读卡器
 指取设备 | TrackPad 经典触控板 多点触控
