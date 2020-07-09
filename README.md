@@ -9,10 +9,29 @@
 ### 机器配置信息
 型号 | ThinkPad L490
 ---|---
-CPU | Intel Core i5-8265U
-核显 | UHD Graphics 620	
-有线网卡 | Intel Ethernet Connection I219-V
-无线网卡 | Intel Wireless-AC 9260
+CPU系列 | 第八代智能英特尔酷睿i5
+CPU型号 | i5-8265U
+CPU主频 | 1.6Ghz
+最高睿频 | 3.9Ghz
+核心架构 | Whiskey Lake
+硬盘容量 | 500GB(SATA HDD) + 128GB(M.2 SSD)
+光驱类型 | 无光驱
+屏幕尺寸 | 14.0英寸
+显示比例 | 16:9
+屏幕分辨率 | 1366x768
+屏幕技术 | LED背光;TN防眩目显示屏;最大视角度90°
+显卡类型 | 集成显卡
+显卡芯片 | Intel UHD Graphics 620
+摄像头 | 720p HD  摄像头
+音频系统 | HD Audio, Realtek ALC3287 codec
+无线网卡 | Intel 9260(2x2 AC)
+有线网卡 | Intel  I219-V
+蓝牙 | BT 5.0
+数据接口 | 2个USB3.1(1个USB接口为Always On),2个Type-C
+视频接口 | HDMI
+读卡器 | Micro SD读卡器
+指取设备 | TrackPad 经典触控板 多点触控
+
 
 ### 更新
 
