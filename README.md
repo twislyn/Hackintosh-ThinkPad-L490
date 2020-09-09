@@ -52,7 +52,7 @@ CPU主频 | 1.6Ghz
 - 原生电源
 - 睡眠
 - 显卡
-- HDMI及Type-c外设
+- HDMI及Type-c外接显示器
 - 声卡，Fn快捷键
 - 小太阳，Fn快捷键
 - 有线网卡
@@ -65,8 +65,9 @@ CPU主频 | 1.6Ghz
 - 睿频
 - 快捷键个别情况 存在破音
 - ~~无线网卡使用[itlwm](https://github.com/OpenIntelWireless/itlwm) 驱动，目前测试正常，但不稳定    建议购买拆机卡或USB网卡~~
-- 触摸板强制开启，只能使用轻点，无法使用多指手势，KBD设备_CID：:point_right: PNP0303 :point_left: ，MOU设备_CID：:point_right: PNP0F13 :point_left:、
-_HID：:point_right: LEN2138 :point_left:，若有知道解决的大佬，欢迎issue
+- 触摸板强制开启，只能使用轻点，无法使用多指手势（KBD设备_CID：:point_right: PNP0303 :point_left: ，MOU设备_CID：
+:point_right: PNP0F13 :point_left:、_HID：:point_right: LEN2138 :point_left:），若有解决的大佬，欢迎PR
+- HDMI不支持热更新
 
 ### 测试
 
@@ -76,7 +77,7 @@ _HID：:point_right: LEN2138 :point_left:，若有知道解决的大佬，欢迎
 
 ### 致谢
 
-- [@黑果小兵](https://github.com/daliansky)
-- [@acidanthera](https://github.com/acidanthera)
-- [@OpenIntelWireless](https://github.com/OpenIntelWireless/itlwm)
+- [黑果小兵](https://github.com/daliansky)
+- [acidanthera](https://github.com/acidanthera)
+- [OpenIntelWireless](https://github.com/OpenIntelWireless/itlwm)
 
