@@ -47,27 +47,32 @@ CPU主频 | 1.6Ghz
 
 - 2020-07-30 增加OC EFI
 
+- 2021-01-30 升级VoodooPS2
+
 ### 驱动正常 :+1:
 
 - 原生电源
 - 睡眠
 - 显卡
-- HDMI及Type-c外接显示器
+- HDMI及Type-c接口 外接显示器
 - 声卡，Fn快捷键
 - 小太阳，Fn快捷键
 - 有线网卡
 - 无线网卡
 - USB、Type-c
 - 蓝牙
+- 完美多指手势（尽情释放你的双手吧）
 
 ### 已知问题
 
 - 睿频
-- 快捷键个别情况 存在破音
+- ~~快捷键个别情况 存在破音~~
 - ~~无线网卡使用[itlwm](https://github.com/OpenIntelWireless/itlwm) 驱动，目前测试正常，但不稳定    建议购买拆机卡或USB网卡~~
-- 触摸板强制开启，只能使用轻点，无法使用多指手势（KBD设备_CID：:point_right: PNP0303 :point_left: ，MOU设备_CID：
-:point_right: PNP0F13 :point_left:、_HID：:point_right: LEN2138 :point_left:），若有解决的大佬，欢迎PR
-- HDMI不支持热更新
+- ~~触摸板强制开启，只能使用轻点，无法使用多指手势（KBD设备_CID：:point_right: PNP0303 :point_left: ，MOU设备_CID：
+:point_right: PNP0F13 :point_left:、_HID：:point_right: LEN2138 :point_left:），若有解决的大佬，欢迎PR~~
+- HDMI不支持热更新，需要重新插拔
+- 睡眠重启后，有概率出现触摸板卡死，鼠标无任何影响
+- 隔空投送
 
 ### 测试
 
