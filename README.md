@@ -5,6 +5,7 @@
 </div>
 
 >小白一枚，记录黑苹果折腾历程
+>NOTE：后续更新将在[这儿](https://github.com/sosiao/Hackintosh-ThinkPad-L490) 或 [国内](https://gitee.com/sosiao/Hackintosh-ThinkPad-L490)继续，本仓库不再更新!!!
 
 ### 机器配置信息
 型号 | ThinkPad L490
